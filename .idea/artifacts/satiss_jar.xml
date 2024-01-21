@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="satiss:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/satiss_jar</output-path>
+    <root id="archive" name="satiss.jar">
+      <element id="module-output" name="satiss" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/toedter/jcalendar/1.4/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.7.2/sqlite-jdbc-3.7.2.jar" path-in-jar="/" />
+      <element id="artifact" artifact-name="unnamed" />
+    </root>
+  </artifact>
+</component>
